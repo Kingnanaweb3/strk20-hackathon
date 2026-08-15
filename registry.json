@@ -359,3 +359,13 @@
     "x_handle": "jennyoliver57"
   }
 ]
+{
+  "repo_url": "https://github.com/Kingnanaweb3/tacit-strk20",
+  "telegram": [
+    "KingnanaCrypt"
+  ],
+  "name": "Tacit",
+  "one_liner": "Sealed-bid auctions using STRK20 encrypted notes for Vickrey, first-price, and multi-unit auctions.",
+  "category": "Markets & Trading"
+}
+]
